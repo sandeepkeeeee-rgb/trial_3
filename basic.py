@@ -100,3 +100,5 @@ print("Outside the if block")
 '''Variables'''
 
 #%%
+print("trial run")
+# %%
